@@ -249,3 +249,6 @@ elif log_ret_choice==2:
             retrieve()
       except Exception as e:
             print(e)
+
+
+# some of the functions are not written
